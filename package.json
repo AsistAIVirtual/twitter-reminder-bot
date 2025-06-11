@@ -1,0 +1,17 @@
+{
+  "name": "twitter-reminder-bot",
+  "version": "1.0.0",
+  "description": "A Twitter bot that sends reminders about token unlocks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "twitter-api-v2": "^1.18.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
